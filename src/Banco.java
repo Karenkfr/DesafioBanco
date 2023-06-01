@@ -11,7 +11,6 @@ public class Banco {
 		
 	}
 	
-	
 
 	public void setNome(String nome) {
 		this.nome = nome;
